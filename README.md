@@ -1,2 +1,0 @@
-# Dashboard-Belimo
-index.html
